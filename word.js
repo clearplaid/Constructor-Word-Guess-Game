@@ -1,3 +1,6 @@
+// Word.js should only require Letter.js
+
+
 var Letter = require("./letter");
 
 var letter = new Letter();
